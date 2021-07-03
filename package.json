@@ -1,0 +1,19 @@
+{
+  "name": "face_recognition_app_back_end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalillamharchi20/a_back_end_with_node_for_face_recognition_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalillamharchi20/a_back_end_with_node_for_face_recognition_app/issues"
+  },
+  "homepage": "https://github.com/khalillamharchi20/a_back_end_with_node_for_face_recognition_app#readme"
+}
