@@ -18,10 +18,13 @@
   },
   "homepage": "https://github.com/khalillamharchi20/a_back_end_with_node_for_face_recognition_app#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "nodemon": "^2.0.9"
+    "knex": "^0.95.7",
+    "nodemon": "^2.0.9",
+    "pg": "^8.6.0"
   }
 }
